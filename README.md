@@ -36,7 +36,7 @@ feedback-classifier-test-project/
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SylvanSol/feedback-classifier-test-project
+   git clone https://github.com/SylvanSol/feedback-classifier-test-project.git
    cd feedback-classifier-test-project
    ```
 2. Install dependencies:
